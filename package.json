@@ -2,18 +2,22 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "Brain Games - Hexlet project",
-  "main": "bin/brain-games.js",
-  "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com"
-  },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averyanovivan48-ai/frontend-project-44.git"
   },
   "keywords": [],
   "author": "Ivan Averyanov",
   "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/averyanovivan48-ai/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/averyanovivan48-ai/frontend-project-44#readme",
   "bin": {
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js",
