@@ -13,3 +13,4 @@
 git clone https://github.com/averyanovivan48-ai/frontend-project-44.git
 cd frontend-project-44
 make install
+
